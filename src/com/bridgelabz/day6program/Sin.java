@@ -1,4 +1,4 @@
-package com.bridgelabz.dat6program;
+package com.bridgelabz.day6program;
 
 import java.util.Scanner;
 
